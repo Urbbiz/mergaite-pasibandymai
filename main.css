@@ -11,7 +11,7 @@ header {
     a {
         background-color: brown;
         display: inline-block;
-        margin-left: 80%;
+        
         
         
 
@@ -20,6 +20,7 @@ header {
     button {
         background-color: chartreuse;
         display: inline-block;
+        
 
     }
 
@@ -36,6 +37,9 @@ div {
     display: inline-block;
     width: 100%;
     float: left;
+    font-size: 90px;
+    margin-left: 60px;
+    margin-top: 100px;
 
 }
 
