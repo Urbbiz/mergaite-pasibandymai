@@ -4,32 +4,51 @@ body {
 
 header {
     background-color: bisque;
+    display: inline-block;
+    width: 100%;
 
 }
     a {
         background-color: brown;
+        display: inline-block;
+        margin-left: 80%;
+        
+        
 
     }
 
     button {
         background-color: chartreuse;
+        display: inline-block;
 
     }
 
 div {
     background-color: darkgray;
+    display: inline-block;
+    width: 50%;
+    float: left;
 
 }
 
-h1 {
+    h1 {
     background-color: darkseagreen;
+    display: inline-block;
+    width: 100%;
+    float: left;
 
 }
 
-p {
+    p {
     background-color: deeppink;
+    display: inline-block;
+    width: 100%;
+    float: left;
 
 }
 img {
-    
+    display: inline-block;
+    float: left;
+
+
 }
