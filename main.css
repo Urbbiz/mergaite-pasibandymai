@@ -3,24 +3,33 @@ body {
 }
 
 header {
+    background-color: bisque;
 
 }
     a {
+        background-color: brown;
 
     }
 
     button {
+        background-color: chartreuse;
 
     }
 
 div {
+    background-color: darkgray;
 
 }
 
 h1 {
+    background-color: darkseagreen;
 
 }
 
 p {
+    background-color: deeppink;
+
+}
+img {
     
 }
